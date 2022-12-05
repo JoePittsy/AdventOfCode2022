@@ -9,10 +9,13 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharedFunctions", "SharedFu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayTwo", "DayTwo\DayTwo.csproj", "{50219AEA-03A9-435F-B3B2-B5C2F76989BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayThree", "DayThree\DayThree.csproj", "{5E388DAB-8627-4C0A-8714-8858D07FACF6}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		SharedFunctions\SharedFunctions.projitems*{4e232089-de2f-4c61-ac28-e36ef33a534a}*SharedItemsImports = 5
 		SharedFunctions\SharedFunctions.projitems*{50219aea-03a9-435f-b3b2-b5c2f76989bf}*SharedItemsImports = 5
+		SharedFunctions\SharedFunctions.projitems*{5e388dab-8627-4c0a-8714-8858d07facf6}*SharedItemsImports = 5
 		SharedFunctions\SharedFunctions.projitems*{fc352ca6-73eb-45d9-b046-f6e6cf85343c}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,6 +31,10 @@ Global
 		{50219AEA-03A9-435F-B3B2-B5C2F76989BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50219AEA-03A9-435F-B3B2-B5C2F76989BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50219AEA-03A9-435F-B3B2-B5C2F76989BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E388DAB-8627-4C0A-8714-8858D07FACF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E388DAB-8627-4C0A-8714-8858D07FACF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E388DAB-8627-4C0A-8714-8858D07FACF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E388DAB-8627-4C0A-8714-8858D07FACF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
