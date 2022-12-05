@@ -1,6 +1,4 @@
-﻿using static SharedFunctions.Shared;
-using System.Linq;
-using System.Diagnostics;
+﻿using System.Diagnostics;
 
 namespace DayOne
 {
@@ -26,21 +24,13 @@ namespace DayOne
 
         public static void Main()
         {
-            var example = partOneAndTwo(@"C:\Users\Joe\Documents\Repos\Personal\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\example1.txt");
+            var example = partOneAndTwo(@"example1.txt");
             Debug.Assert(example.Item1 == 24000);
             Debug.Assert(example.Item2 == 45000);
 
-            var actual = partOneAndTwo(@"C:\Users\Joe\Documents\Repos\Personal\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\real1.txt");
+            var actual = partOneAndTwo(@"real1.txt");
             Console.WriteLine($"Part One = {actual.Item1}");
             Console.WriteLine($"Part Two = {actual.Item2}");
-
         }
-
     }
-
 }
-
-
-
-
-
