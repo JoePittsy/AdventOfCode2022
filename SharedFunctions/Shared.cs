@@ -11,7 +11,7 @@ namespace SharedFunctions
             foreach (var item in array)
             {
                 Console.Write(item);
-                Console.WriteLine(seperator);
+                Console.Write(seperator);
             }
         }
     }

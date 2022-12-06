@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using System.Linq;
 using static SharedFunctions.Shared;
-namespace DayTwo
+namespace DayThree
 {
     public static class Program
     {
