@@ -56,11 +56,6 @@ namespace DayFour
                 if (r1ContainsR2) { partTwo++; }
                 else if (r2ContainsR1) { partTwo++; }
 
-                //partOne += r1ContainsR2 ? 1 : 0;
-                //partOne += r2ContainsR1 ? 1 : 0;
-
-               
-
             }
 
             return partTwo;
