@@ -33,10 +33,7 @@ namespace DaySeven
                 else if (currentCommand == "ls")
                 {
                     // Folder
-                    if (line[0] == 'd')
-                    {
-                        currentDir.AddChild(new ElfFolder(currentDir, line.Replace("dir ", "")));
-                    }
+                    if (line[0] == 'd') currentDir.AddChild(new ElfFolder(currentDir, line.Replace("dir ", "")));
                     // File
                     else
                     {
