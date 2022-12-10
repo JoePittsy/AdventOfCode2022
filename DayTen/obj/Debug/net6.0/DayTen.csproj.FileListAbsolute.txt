@@ -1,0 +1,15 @@
+C:\Users\Joe\Documents\Repos\Personal\AdventOfCode2022\AdventOfCode2022\DayTen\bin\Debug\net6.0\DayTen.exe
+C:\Users\Joe\Documents\Repos\Personal\AdventOfCode2022\AdventOfCode2022\DayTen\bin\Debug\net6.0\DayTen.deps.json
+C:\Users\Joe\Documents\Repos\Personal\AdventOfCode2022\AdventOfCode2022\DayTen\bin\Debug\net6.0\DayTen.runtimeconfig.json
+C:\Users\Joe\Documents\Repos\Personal\AdventOfCode2022\AdventOfCode2022\DayTen\bin\Debug\net6.0\DayTen.dll
+C:\Users\Joe\Documents\Repos\Personal\AdventOfCode2022\AdventOfCode2022\DayTen\bin\Debug\net6.0\DayTen.pdb
+C:\Users\Joe\Documents\Repos\Personal\AdventOfCode2022\AdventOfCode2022\DayTen\obj\Debug\net6.0\DayTen.csproj.AssemblyReference.cache
+C:\Users\Joe\Documents\Repos\Personal\AdventOfCode2022\AdventOfCode2022\DayTen\obj\Debug\net6.0\DayTen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joe\Documents\Repos\Personal\AdventOfCode2022\AdventOfCode2022\DayTen\obj\Debug\net6.0\DayTen.AssemblyInfoInputs.cache
+C:\Users\Joe\Documents\Repos\Personal\AdventOfCode2022\AdventOfCode2022\DayTen\obj\Debug\net6.0\DayTen.AssemblyInfo.cs
+C:\Users\Joe\Documents\Repos\Personal\AdventOfCode2022\AdventOfCode2022\DayTen\obj\Debug\net6.0\DayTen.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Documents\Repos\Personal\AdventOfCode2022\AdventOfCode2022\DayTen\obj\Debug\net6.0\DayTen.dll
+C:\Users\Joe\Documents\Repos\Personal\AdventOfCode2022\AdventOfCode2022\DayTen\obj\Debug\net6.0\refint\DayTen.dll
+C:\Users\Joe\Documents\Repos\Personal\AdventOfCode2022\AdventOfCode2022\DayTen\obj\Debug\net6.0\DayTen.pdb
+C:\Users\Joe\Documents\Repos\Personal\AdventOfCode2022\AdventOfCode2022\DayTen\obj\Debug\net6.0\DayTen.genruntimeconfig.cache
+C:\Users\Joe\Documents\Repos\Personal\AdventOfCode2022\AdventOfCode2022\DayTen\obj\Debug\net6.0\ref\DayTen.dll
